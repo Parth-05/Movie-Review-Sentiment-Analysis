@@ -7,6 +7,8 @@ This project involves fine-tuning a pre-trained DistilBERT model to perform sent
 
 Live Application Link: https://flix-view.vercel.app/
 
+FlixView Github Link: https://github.com/Parth-05/FlixView
+
 ## Technologies Used
 Python
 Hugging Face Transformers
